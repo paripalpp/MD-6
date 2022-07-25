@@ -1243,7 +1243,7 @@
     (property "Value" "C_Polarized" (id 1) (at 128.651 119.0876 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 126.6952 121.92 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_10x10" (id 2) (at 126.6952 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 125.73 118.11 0)
